@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  BasketballClubManagement.cpp
+  BasketballClubManagement.h
+  正在生成代码...
+Debug\BasketballClubManagement.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  篮球俱乐部管理系统.vcxproj -> D:\Desktop\U盘\课设们\C++课设解决方案\篮球俱乐部管理系统2.0\Debug\篮球俱乐部管理系统.exe
